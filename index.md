@@ -14,4 +14,4 @@ Ever wondered how many times the word "winter" was repeated in the entire Game o
 
 ## R 
 1. [9 HOURS LATER](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/main/Equity-Analysis.R)
-My regression analysis exam.
+My regression analysis exam on an equity dataset.
