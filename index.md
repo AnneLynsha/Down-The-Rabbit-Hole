@@ -12,6 +12,3 @@ Looking to dive into the world of anime? Check out the top 5 animes based on an 
 2. [HOW MANY TIMES JON SNOW?](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/main/HOW%20MANY%20TIMES%20JON%20SOW.ipynb)
 Ever wondered how many times the word "winter" was repeated in the entire Game of Thrones series? I have... 
 
-## R 
-1. [9 HOURS LATER](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/main/Equity%20Analysis.R)
-My regression analysis exam on an equity dataset.
