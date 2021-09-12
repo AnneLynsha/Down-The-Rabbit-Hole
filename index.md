@@ -17,7 +17,5 @@ Ever wondered how many times the word "winter" was repeated in the entire Game o
 ## SQL
 1. [BREACH REPORT](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/main/BreachReportAnalysis.sql)
 A quick analysis on a Breah dataset of fortune 500 companies from 2004 - 2021.
-![MultipleBreaches)](https://user-images.githubusercontent.com/85369154/132966418-172769d9-09d7-4319-9042-7087cd6daee6.png)
-
 
 
