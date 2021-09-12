@@ -1,5 +1,6 @@
 # Down the Rabbit Hole 
 ## A collection of my interests explored through data analytics. 
+![Alice and Wonderland](https://user-images.githubusercontent.com/85369154/132993088-528735d0-9348-4e6b-aa11-6528276f9e60.png)
 ![ Alice and Wonderland 2010](https://user-images.githubusercontent.com/85369154/132992922-35c9afab-09eb-4742-99ea-48fef2a6de82.png)
 
 # PROJECTS
