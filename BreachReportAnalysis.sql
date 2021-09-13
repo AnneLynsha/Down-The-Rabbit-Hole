@@ -26,6 +26,11 @@ GROUP BY Org_name
 HAVING COUNT(*) > 1
 order by MultipleBreaches desc
 
+--Most Breach Frequent Method
+select distinct Method, count(Method) as MethodFrequency
+from BreachReport
+group by Method
+
 -- Total lost records by Breach Method 
 select distinct Method, sum(Lost_records) as Total_RecLostMethod
 from BreachReport
@@ -38,6 +43,7 @@ FROM BreachReport
 GROUP BY Sector
 HAVING COUNT(*) > 1
 order by Count_Sector desc
+
 
 
  
