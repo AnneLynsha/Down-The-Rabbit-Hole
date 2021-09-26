@@ -17,12 +17,12 @@ Ever wondered how many times the word "winter" was repeated in the entire Game o
 ## SQL
 1. [BREACH REPORT](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/main/BreachReportAnalysis.sql)
 A quick analysis on a Breah dataset of fortune 500 companies from 2004 - 2021. I looked to answer these following questions:
-  a) Organization with Highest Records Lost and Data Sensitivity Level
-  b) Records Lost by Breach Type
-  c) Trends of Breaches( all method types )
-  d) Companies with more than one breaches?
-  e) Most Frequent Breach Method
-  f) Total lost records by Breach Method 
+ 1) Organization with Highest Records Lost and Data Sensitivity Level
+ 2) Records Lost by Breach Type
+ 3) Trends of Breaches( all method types )
+ 4) Companies with more than one breaches?
+ 5) Most Frequent Breach Method
+ 6) Total lost records by Breach Method 
 
 
 
