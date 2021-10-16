@@ -11,7 +11,7 @@ Looking to dive into the world of anime? Check out the top 5 animes based on an 
 Ever wondered how many times the word "winter" was repeated in the entire Game of Thrones series? I have... 
 
 3. [SALES SALES](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/bc6553a6c97ce14991cd94eb9cbdac090b4ec40e/SalesDataAnalysis.ipynb)
-Performed some data cleaning, analysis and vizualization using numpy, pandas, and other python libraries on a company sales data to gain valuable insights and recommendations from questions. 
+Performed some data cleaning, analysis and visualization using numpy, pandas, and other python libraries on a company sales data to gain valuable insights and recommendations from questions. 
 
 ## SQL
 1. [BREACH REPORT](https://github.com/AnneLynsha/Down-The-Rabbit-Hole/blob/main/BreachReportAnalysis.sql)
